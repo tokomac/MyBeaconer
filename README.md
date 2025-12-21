@@ -40,7 +40,7 @@ Maintenance and feature development are handled by an individual creator. The ap
 
 ## Download
 
-[Download on the App Store]
+<a href="https://apps.apple.com/us/app/mybeaconer/id1621993978?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1659312000&h=c2ccaa3ca47b1c88aba377b97e69d13b" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 ---
 
